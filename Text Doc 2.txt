@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Line 1
 Line 2 NCT File 2
+=======
+Line 1 Dabhi
+Line 2
+>>>>>>> 3db246b5c57a9b45d6e5eb2e78ba4b17c7e472e5
 Line 3
